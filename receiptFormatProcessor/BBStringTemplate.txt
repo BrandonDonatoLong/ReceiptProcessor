@@ -1,0 +1,11 @@
+﻿{outputType=txt};{outputFileName=stringReceipt}
+Order Receipt for {companyName}
+
+{ItemizedList}
+
+Subtotal: {subtotal}
+Tax: {tax}
+Total: {subtotal} + {tax} = {total}
+
+Thank you for choosing {companyName}! 
+		Please come again!

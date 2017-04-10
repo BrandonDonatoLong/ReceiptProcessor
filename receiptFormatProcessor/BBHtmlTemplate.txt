@@ -1,0 +1,10 @@
+﻿{outputType=html};{outputFileName=htmlReceipt}
+<html><body><h1>Order Receipt for {companyName}</h1>
+<ul>
+{ItemizedList}
+</ul>
+<h3>Sub-Total: {subtotal}</h3>
+<h3>Tax: {tax}</h3>
+<h3>Total: {total}</h3>
+<h2>Thank you for choosing {companyName}! </h2><h3>Please come again!</h3>
+</body></html>

@@ -1,0 +1,10 @@
+Order Receipt for Brandon's Bikes
+
+1 x Bike 1 = 1000
+
+Subtotal: 1000
+Tax: 77.25
+Total: 1000 + 77.25 = 1077.25
+
+Thank you for choosing Brandon's Bikes! 
+		Please come again!
